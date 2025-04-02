@@ -1,3 +1,5 @@
+# Counts of the nucleotides in the sequence
+
 import re 
 from re import finditer 
 
